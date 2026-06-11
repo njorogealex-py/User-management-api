@@ -6,7 +6,7 @@ A backend API system built with Python, FastAPI, SQLAlchemy ORM and PostgreSQL t
 
 ## Problem Statement
 
-In many industrial environments, multiple workers across different responsibility levels share access to the same devices and features with no restrictions. This creates security risks, accidental data exposure and a lack of accountability. This system solves that by introducing structured role based access control enforced at the API level.
+In many industrial environments, multiple workers across different responsibility levels share access to the same devices and features with no restrictions. This creates security risks, accidental data exposure and a lack of accountability. This system solves that by introducing structured role based access control enforced at the API level. 
 
 ---
 
