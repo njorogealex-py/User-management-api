@@ -1,6 +1,6 @@
 # User Management System
 
-A backend API system built with Python, FastAPI, SQLAlchemy ORM and PostgreSQL that implements role based access control for multi-user industrial environments, enabling secure and structured feature restrictions across Admin, Standard and Premium user roles designed to serve as the authentication and authorization backbone for PDA device management in industrial settings.
+A backend API system built with Python, FastAPI, SQLAlchemy ORM and PostgreSQL that implements role based access control for multi-user industrial environments, enabling secure and structured feature restrictions across Admin, Standard and Premium user roles designed to serve as the authentication and authorization backbone for PDA device management in industrial settings, ensuring that only authorized personnel access the right features at the right level.
 
 ---
 
